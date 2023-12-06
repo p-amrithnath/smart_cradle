@@ -1,0 +1,27 @@
+
+Copy code
+/* style.css */
+html, body {
+    height: 1000hv;
+    margin: 0;
+}
+/* Set background image */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url('../img/image.jpg');
+    background-size: cover;
+}
+
+/* Style for the heading */
+h1 {
+    text-align: center;
+    color:black; /* Change the color as needed */
+}
+
+h{
+    text-align: center;
+    color:black;
+    
+}
